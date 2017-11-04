@@ -1,0 +1,10 @@
+C:\Users\lucas\Desktop\Projetos\calculomedia\obj\Debug\netcoreapp2.0\CalculoMedia.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Projetos\calculomedia\obj\Debug\netcoreapp2.0\CalculoMedia.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Projetos\calculomedia\obj\Debug\netcoreapp2.0\CalculoMedia.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Projetos\calculomedia\bin\Debug\netcoreapp2.0\CalculoMedia.deps.json
+C:\Users\lucas\Desktop\Projetos\calculomedia\bin\Debug\netcoreapp2.0\CalculoMedia.runtimeconfig.json
+C:\Users\lucas\Desktop\Projetos\calculomedia\bin\Debug\netcoreapp2.0\CalculoMedia.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\Projetos\calculomedia\bin\Debug\netcoreapp2.0\CalculoMedia.dll
+C:\Users\lucas\Desktop\Projetos\calculomedia\bin\Debug\netcoreapp2.0\CalculoMedia.pdb
+C:\Users\lucas\Desktop\Projetos\calculomedia\obj\Debug\netcoreapp2.0\CalculoMedia.dll
+C:\Users\lucas\Desktop\Projetos\calculomedia\obj\Debug\netcoreapp2.0\CalculoMedia.pdb
